@@ -1,0 +1,20 @@
+# Normalize text files
+
+* text=auto eol=lf
+
+# Documentation
+
+*.md text eol=lf
+
+# Source code
+
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+
+# Configuration
+
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
