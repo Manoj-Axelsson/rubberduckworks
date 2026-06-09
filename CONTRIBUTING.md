@@ -130,3 +130,9 @@ Before creating a Pull Request:
 □ No loitering ducks remain in the pond
 
 ---
+
+If you found yourself improving something you didn't originally intend to touch, congratulations.
+
+You have already understood how this laboratory works.
+
+---
