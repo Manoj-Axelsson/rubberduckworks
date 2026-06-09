@@ -2,7 +2,7 @@
 
 This repository is not a code repository. It is an Engineering Systems Laboratory.
 
-That means the governance should explain how the laboratory operates, not just who can merge a PR.
+That means the governance should explain how the laboratory operates, not just who can merge a PR. RubberDuckWorks is maintained by many contributors, but every contributor serves as the Pond Manager for the duration of their commit. Their responsibility is not ownership—it is stewardship.
 
 --- 
 
