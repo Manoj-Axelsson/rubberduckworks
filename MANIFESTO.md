@@ -1,5 +1,5 @@
 
-## The Pond Manager's Rule (#3)
+## The Pond Manager's Rule (#2)
 
 ### Leave the pond cleaner than you found it.
 
