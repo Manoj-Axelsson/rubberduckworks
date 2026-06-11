@@ -13,13 +13,12 @@ Every decision should make the laboratory:
 
 **Engineering Practices**
 
-**`This laboratory values:`**
+**Model Reality Before Modelling Data and Writing Code.**
 
 - inspect before committing,
 - document before forgetting,
 - rebase instead of force pushing,
 - create incident reports,
-- maintain a journal,
-- and treat software engineering as a craft.
+- maintain an engineering journal.
 
-**Understanding compounds. Document accordingly.**
+**`Understanding compounds. Document accordingly.`**
