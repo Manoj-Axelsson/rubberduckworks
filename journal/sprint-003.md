@@ -1,7 +1,7 @@
 Sprint 003
 
 Theme:
-The B2B Playground
+**The B2B Playground**
 
 Deliverables:
 
@@ -21,5 +21,4 @@ Deliverables:
 No CSS first.
 No animations first.)
 
-Understand first.
-Build second.
+**Understand first. Build second.**
