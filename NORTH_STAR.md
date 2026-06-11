@@ -11,11 +11,13 @@ Every decision should make the laboratory:
 
 ---
 
-This file explicitly recommends:
+**Engineering Practices**
+
+**`This laboratory values:`**
 
 - inspect before committing,
 - document before forgetting,
 - rebase instead of force pushing,
 - create incident reports,
 - maintain a journal,
-and treat software engineering as a craft.
+- and treat software engineering as a craft.
