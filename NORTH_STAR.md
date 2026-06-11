@@ -21,3 +21,5 @@ Every decision should make the laboratory:
 - create incident reports,
 - maintain a journal,
 - and treat software engineering as a craft.
+
+**Understanding compounds. Document accordingly.**
