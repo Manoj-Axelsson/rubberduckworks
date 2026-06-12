@@ -13,7 +13,7 @@ Every decision should make the laboratory:
 
 **Engineering Practices**
 
-**Model Reality Before Modelling Data and Writing Code.**
+**Model Reality Before Modeling Data and Writing Code.**
 
 ***Structure knowledge before structuring software.***
 
