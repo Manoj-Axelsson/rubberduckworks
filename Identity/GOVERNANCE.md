@@ -71,13 +71,13 @@ When multiple solutions exist, preference is given to the one that:
 
 Documentation is created alongside implementation.
 - README files explain purpose.
-- Governance explains behaviour.
+- Governance explains behavior.
 - Manifestos explain culture.
 - Commits explain intent.
 - Issues explain motivation.
 - Pull Requests explain evolution.
 
-  ---
+---
 
 7. Continuous Improvement
 
