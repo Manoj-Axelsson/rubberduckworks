@@ -15,6 +15,8 @@ Every decision should make the laboratory:
 
 **Model Reality Before Modelling Data and Writing Code.**
 
+***Structure knowledge before structuring software.***
+
 - inspect before committing,
 - document before forgetting,
 - rebase instead of force pushing,
