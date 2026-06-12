@@ -1,6 +1,6 @@
 ### RubberDuckWorks
 
-> Knowledge-driven Engineering Systems Laboratory
+***Knowledge-driven Engineering Systems Laboratory***
 
 RubberDuckWorks is an open engineering laboratory focused on software architecture, systems thinking, continuous improvement, and AI-assisted engineering.
 
@@ -22,4 +22,4 @@ RubberDuckWorks is an open engineering laboratory focused on software architectu
 
 ---
 
-> #### Reality is observed, understanding is documented, methodology is refined, and software emerges as a consequence—not as the starting point.
+#### Reality is observed, understanding is documented, methodology is refined, and software emerges as a consequence—not as the starting point.
