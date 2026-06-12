@@ -1,6 +1,6 @@
-```text
+```
 
-# Laboratory Architecture
+LABORATORY ARCHITECTURE
 
 Understanding flows from philosophy to implementation.
 
