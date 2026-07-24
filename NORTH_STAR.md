@@ -1,8 +1,8 @@
 **We don't optimize for speed. We optimize for understanding.**
 
-RubberDuckWorks exists to explore software engineering through disciplined experimentation, thoughtful documentation, and continuous learning.
+RubberDuckWorks exists to advance software engineering through disciplined experimentation, validated methodology, thoughtful documentation, and continuous learning.
 
-Every decision should make the laboratory:
+Every decision is stipulated to make the laboratory:
 
 - easier to understand
 - easier to maintain
