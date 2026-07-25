@@ -1,18 +1,14 @@
-<h2/>
+# Contributing to RubberDuckWorks
 
-CONTRIBUTING.md
+## Welcome to the Pond
 
-<h4/>
-
-- Welcome to the Pond
-
-This repository is maintained as an Engineering Systems Laboratory where software engineering, systems thinking, documentation, and continuous improvement are practiced in public. Every contributor becomes the Pond Manager for the duration of their commit.
+This repository is maintained as an Engineering Systems Laboratory where software engineering, systems thinking, documentation, and continuous improvement are practiced in public. Every contributor plays a vital role in maintaining the integrity and quality of this laboratory.
 
 ---
 
-- The First Rule
+## The First Rule
 
-"Leave the pond cleaner than you found it." 
+"Leave the pond cleaner than you found it."
 
 1. Every contribution should improve the repository in some way.
 2. Sometimes that means writing code.
@@ -22,65 +18,58 @@ This repository is maintained as an Engineering Systems Laboratory where softwar
 
 ---
 
-- Before You Begin
+## Before You Begin
 
-Ask yourself :
+Ask yourself:
+
 1. Why does this change exist?
-2. Does it reduce complexity?            
+2. Does it reduce complexity?
 3. Will the next visitor understand it?
 4. Would I be comfortable explaining this in a code review?
 
 ---
 
-- The Pond Manager Workflow
+## The Pond Manager Workflow
 
-  Observe
-
-   -  ↓
-
-  Understand
-
-   -  ↓
-
-  Improve
-
-   -  ↓
-
-  Document
-
-   -  ↓
-
-  Commit
-
-   -  ↓
-
-"Leave the pond cleaner than you found it"  
+```
+Observe
+   ↓
+Understand
+   ↓
+Improve
+   ↓
+Document
+   ↓
+Commit
+   ↓
+"Leave the pond cleaner than you found it"
+```
 
 ---
 
-- Commit Philosophy
+## Commit Philosophy
 
-a) docs(manifesto)  : establish the Pond Manager's Rule
+Use semantic commit messages that clearly express intent:
 
-b) feat(weather)    : introduce SMHI forecast adapter
-
-c) fix(auth)        : resolve session refresh race condition
+- `docs(manifesto): establish the Pond Manager's Rule`
+- `feat(weather): introduce SMHI forecast adapter`
+- `fix(auth): resolve session refresh race condition`
 
 ---
 
-- Pull Requests
+## Pull Requests
 
 A Pull Request should explain:
 
-- Why the change exists.
-- What changed.
-- How the repository is better afterwards.
+- **Why** the change exists.
+- **What** changed.
+- **How** the repository is better afterwards.
 
 Not just what files were modified.
 
 ---
 
-- Documentation Expectations
+## Documentation Expectations
 
 Documentation is considered part of the product.
 
@@ -93,7 +82,7 @@ Documentation is considered part of the product.
 
 ---
 
-- Definition of Contribution
+## Definition of Contribution
 
 A contribution may be:
 
@@ -113,26 +102,19 @@ No meaningful improvement is considered too small.
 
 ---
 
-- Final Checklist
+## Final Checklist
 
 Before creating a Pull Request:
 
-□ Documentation updated
-
-□ Commit history tells a story
-
-□ Repository structure remains intentional
-
-□ Unnecessary files removed
-
-□ The next contributor will understand the change
-
-□ No loitering ducks remain in the pond
+- [ ] Documentation updated
+- [ ] Commit history tells a story
+- [ ] Repository structure remains intentional
+- [ ] Unnecessary files removed
+- [ ] The next contributor will understand the change
+- [ ] No loitering ducks remain in the pond
 
 ---
 
 If you found yourself improving something you didn't originally intend to touch, congratulations.
 
 You have already understood how this laboratory works.
-
----

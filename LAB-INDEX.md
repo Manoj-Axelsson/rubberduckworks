@@ -6,16 +6,17 @@ Understanding flows from philosophy to implementation.
 
 
            Philosophy
-                │
+                |
                 ▼
 
- README · MANIFESTO · GOVERNANCE
-                │
+ README · MANIFESTO · GOVERNANCE · NORTH_STAR
+          (See Identity/ directory)
+                |
                 ▼
 
         Engineering Record
              journal/
-                │
+                |
                 ▼
 
         Implementation
@@ -28,6 +29,8 @@ RubberDuckWorks is organized as a layered Engineering Systems Laboratory where p
 ### Philosophy
 
 Defines identity, values, governance, and engineering principles.
+
+**Note:** The authoritative North Star document is located at `Identity/NORTH_STAR.md` and defines our core mission, principles, and methodology.
 
 ### Engineering Record
 
