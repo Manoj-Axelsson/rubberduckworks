@@ -88,7 +88,7 @@ Software exists to represent reality—not to define it.
 
 RubberDuckWorks is more than a code repository.
 
-It is an engineering laboratory where business systems are understood before they are implemented, where documentation is treated as a first-class artifact, and where every experiment is an opportunity to learn.
+It is an engineering laboratory where business systems are understood before they are implemented, where documentation is treated as a first-class artifact, and where every experiment is an opportunity to refine our understanding of how software should be built.
 
 We believe that understanding compounds.
 
