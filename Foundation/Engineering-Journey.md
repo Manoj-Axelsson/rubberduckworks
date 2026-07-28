@@ -6,9 +6,9 @@
 
 ## Welcome
 
-> **Hello and welcome to RubberDuckWorks.**
+Welcome to RubberDuckWorks.
 
-This repository is organized around engineering questions rather than technologies or projects.
+This repository is organized around engineering questions rather than technologies, frameworks, or individual projects.
 
 Use this guide to navigate the Engineering Knowledge System.
 
@@ -34,13 +34,16 @@ Use this guide to navigate the Engineering Knowledge System.
       │
       ▼
 
-                    REPOSITORY ARCHITECTURE
-              "How is everything organised?"
+                 ## REPOSITORY ARCHITECTURE
+
+               "How is everything organised?"
+
                                  │
                                  ▼
 
-                          GOVERNANCE
-                  "How are decisions made?"
+                         ## GOVERNANCE
+
+                   "How are decisions made?"
                                  │
                                  ▼
 
@@ -82,12 +85,12 @@ Use this guide to navigate the Engineering Knowledge System.
 
 Shared by every domain
 
-                        Assets
-                        
-                  Templates
-                  Diagrams
-                  Logos
-                  Resources
+### Assets
+
+Templates
+Diagrams
+Logos
+Resources
 
 ═══════════════════════════════════════════════════════════════════════
 ```
@@ -96,17 +99,28 @@ Shared by every domain
 
 ## Navigation Guide
 
-| If you're asking...                 | Go to                     |
-|-------------------------------------|---------------------------|
-| Why does RubberDuckWorks exist?     | Foundation                |
-| How is the repository organized?    | Repository Architecture   |
-| How are decisions made?             | Governance                |
-| How do we engineer software?        | Methodology               |
-| How do we design systems?           | Architecture              |
-| What defines engineering quality?   | Standards                 |
-| What are we exploring?              | Research                  |
-| What assumptions have we validated? | Experiments               |
-| What have we reviewed?              | Reviews                   |
-| What have we learned?               | Knowledge                 |
-| How are ideas applied?              | Projects                  |
-| Where are reusable resources?       | Assets                    |
+``` text
+
+| If you're asking...                   | Go to                     §|
+| :------------------------------------ | :-----------------------: §|
+| Why does RubberDuckWorks exist?       | Foundation                §|
+| How is the repository organized?      | Repository Architecture   §|
+| How are decisions made?               | Governance                §|
+| How do we engineer software?          | Methodology               §|
+| How do we design systems?             | Architecture              §|
+| What defines engineering quality?     | Standards                 §|
+| What are we exploring?                | Research                  §|
+| What assumptions have we validated?   | Experiments               §|
+| What have we reviewed?                | Reviews                   §|
+| What have we learned?                 | Knowledge                 §|
+| How are ideas applied?                | Projects                  §|
+| Where are reusable resources?         | Assets                    §|
+
+```
+
+---
+
+Every experiment, architectural decision, review, and completed project contributes back to the Engineering Knowledge System, continuously strengthening RubberDuckWorks as an engineering laboratory.
+
+---
+
