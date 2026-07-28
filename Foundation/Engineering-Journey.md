@@ -17,7 +17,7 @@ Use this guide to navigate the Engineering Knowledge System.
 ### Engineering Knowledge Map
 
 ```text
-                               RubberDuckWorks
+                                RubberDuckWorks
                            Engineering Knowledge System
 ═══════════════════════════════════════════════════════════════════════
 
@@ -73,7 +73,7 @@ Use this guide to navigate the Engineering Knowledge System.
                                 │
                                 ▼
 
-                           PROJECTS
+                            PROJECTS
 
                                 │
                                 ▼
