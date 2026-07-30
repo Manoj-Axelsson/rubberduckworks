@@ -1,5 +1,5 @@
 
-## ⚔️ Sprint 0 A — Repository Skeleton
+## ⚔️ Sprint 0A — Repository Skeleton
 
 ### Mission
 

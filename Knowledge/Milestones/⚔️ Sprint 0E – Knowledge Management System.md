@@ -20,7 +20,7 @@ Without deliberate knowledge management, valuable experience gradually disappear
 
 RubberDuckWorks treats knowledge as a long-term engineering asset that deserves the same level of structure and care as source code.
 
-Knowledge accumulated today should accelerate engineering tomorrow.
+Knowledge accumulated today should speed up engineering tomorrow.
 
 ---
 
@@ -64,7 +64,7 @@ A living knowledge base reflects a living engineering system.
 
 The purpose of knowledge management is not documentation for its own sake.
 
-Its purpose is to enable better engineering decisions, reduce uncertainty, and accelerate continuous learning.
+Its purpose is to enable better engineering decisions, reduce uncertainty, and speed up continuous learning.
 
 Knowledge exists to improve future engineering.
 

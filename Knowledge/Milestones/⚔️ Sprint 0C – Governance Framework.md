@@ -25,7 +25,8 @@ Every contribution—whether documentation, architecture, experimentation, or im
 
 Every engineering activity begins by understanding why a change is necessary before determining how it should be implemented.
 
-Solutions without clearly defined purpose often increase complexity without increasing value.
+Solutions implemented without a clearly defined purpose often increase complexity without 
+increasing value.
 
 RubberDuckWorks therefore prioritizes intentional design over rapid implementation.
 

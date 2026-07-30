@@ -8,13 +8,13 @@ Establish a unified set of engineering standards that promote consistency, maint
 
 ## Why Engineering Standards Exist
 
-Engineering standards transform governance into daily practice.
+Engineering standards transform governance into a daily practice.
 
 While governance defines how engineering decisions are made, standards define how those decisions are consistently implemented.
 
 Without common standards, repositories gradually diverge, documentation becomes inconsistent, architectural quality declines, and knowledge becomes increasingly difficult to maintain.
 
-Engineering standards therefore exist to reduce unnecessary variation while preserving creativity where it matters most—problem solving, architecture, and innovation.
+Engineering standards therefore exist to reduce unnecessary variation while preserving creativity where it matters most—problem-solving, architecture, and innovation.
 
 Consistency should never restrict engineering thought.
 
