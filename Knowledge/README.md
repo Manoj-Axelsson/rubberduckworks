@@ -16,11 +16,11 @@ Knowledge documents capture understanding that emerges from disciplined experime
 
 ## How Knowledge Becomes Practice
 
-1. **Research** - Investigate topics systematically
-2. **Experimentation** - Test approaches in controlled environments
-3. **Documentation** - Record findings and insights
-4. **Knowledge** - Synthesize into transferable understanding
-5. **Implementation** - Apply patterns in production systems
+1. **Research** – Investigate topics systematically
+2. **Experimentation** – Test approaches in controlled environments
+3. **Documentation** – Record findings and insights
+4. **Knowledge** – Synthesize into transferable understanding
+5. **Implementation** – Apply patterns in production systems
 
 ## Contributing
 
@@ -30,5 +30,7 @@ Knowledge contributions should:
 - Include reasoning and methodology
 - Reference related work and sources
 - Explain practical applications
+
+Engineering Decisions preserve architectural reasoning, engineering investigations and lessons learned throughout the repository.
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.

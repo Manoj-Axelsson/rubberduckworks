@@ -59,4 +59,11 @@ The goal is to preserve the decision-making process behind technical implementat
 
 ---
 
+## Navigation
+
+- [Decision Index](INDEX.md)
+- [Architecture Decision Records](ADR/README.md)
+- [Engineering Case Studies](ECS/README.md)
+
+
 > <span style="color: green;"><strong>Engineering without evidence is engineering based on assumptions.</strong></span>
